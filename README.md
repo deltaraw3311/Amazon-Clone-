@@ -1,9 +1,5 @@
 Created react app which is amazon clone -
 
-
-It is deployed on the following link do check out - https://clone-8b451.web.app/
-
-
 The tech stack which was used -
 
     Pure HTML/CSS
